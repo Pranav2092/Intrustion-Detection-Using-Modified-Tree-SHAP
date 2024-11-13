@@ -1,4 +1,4 @@
-# Intrustion-Detection-Using-Modified-Tree-SHAP
+# Intrusion-Detection-Using-Modified-Tree-SHAP
 
 ## How to use?
   1. Copy the code from the colab link.
